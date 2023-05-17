@@ -2,8 +2,8 @@
 ( (cond 
      (= type_os "macOs")((exe_shell("brew install gh"))
      (= typeos " Windows")((exe_shell("choco install gc"))
-                           ))
-    }
+                           )))
+    
                      
     
                                      
