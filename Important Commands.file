@@ -1,0 +1,8 @@
+Added some new features of custom command line.
+
+1. For adding a file from repository.
+git-co-add <RepositoryName>@<File_Name> ; With extension
+
+2. For downloading data of repository.
+git-co-down <RepositoryName>
+
